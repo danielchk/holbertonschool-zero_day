@@ -1,1 +1,0 @@
-This proyect is about git and how to use it
