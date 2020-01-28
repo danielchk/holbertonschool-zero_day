@@ -1,3 +1,3 @@
-# holbertonschool-zero_day 
+# holbertonschool
 
-This is my first proyect about how to programming
+This proyect is about how to begin to programming
